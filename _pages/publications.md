@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Kening Sun"
 permalink: /publications/
 author_profile: true
 ---
