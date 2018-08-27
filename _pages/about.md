@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/keninginCU.png?raw=true" width=450px >
+  <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/keninginCU.png?raw=true" alt="photo" width=450px >
   </p>
 
 I am a senior student in Northwestern Polytechnical University
