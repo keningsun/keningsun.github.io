@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+  <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/keninginCU.png?raw=true" width=450px >
+  </p>
 
 I am a senior student in Northwestern Polytechnical University
 
@@ -19,7 +22,10 @@ My Experience
 
 - August 9, 2018. Presented the final project and finished the **Bigdata** Summer Program in **University of Washington**.
 Topic: Promoting Ridesharing by Bigdata <a href="https://github.com/RevCre/keningsun.github.io/blob/master/files/UW-final%20presentation.pptx?raw=true">[Final Presentation]</a> Using Spark+Dataframe+SQL+Tableau
-<div><img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre1.JPG?raw=true" width=200px><img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre2.JPG?raw=true" width=200px></div>
+<div>
+  <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre1.JPG?raw=true" width=200px>
+  <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre2.JPG?raw=true" width=200px>
+</div>
 
 - July 8, 2018. 
 
