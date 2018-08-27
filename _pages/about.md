@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am a senior student in Northwestern Polytechnical University
+
+My research interests lie in the general area of transportation systems, particularly in human mobility and advanced transportation infrastructure
+
 
 
 My Experience 
