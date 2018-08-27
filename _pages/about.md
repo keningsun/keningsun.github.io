@@ -16,8 +16,8 @@ My Experience
 * August 9, 2018 Presented the final project and finished the **Bigdata** Summer Program in **University of Washington**. 
 Topic: Promoting Ridesharing by Bigdata <a href="https://github.com/RevCre/keningsun.github.io/blob/master/files/UW-final%20presentation.pptx?raw=true">[Final Presentation]</a> Using Spark+Dataframe+SQL+Tableau
 <div>
-<img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre1.JPG?raw=true" width=200px >
-<img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre2.JPG?raw=true" width=200px >
+<img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre1.JPG?raw=true" width=200px>
+<img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre2.JPG?raw=true" width=200px>
   </div>
 * June 11, 2018
 
