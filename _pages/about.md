@@ -11,9 +11,9 @@ redirect_from:
   <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/keninginCU.png?raw=true" alt="photo" width=450px />
   </p>
 
-I am a senior student in Northwestern Polytechnical University
+I am a senior student in Northwestern Polytechnical University （985&211 project）
 
-My research interests lie in the general area of transportation systems, particularly in human mobility and advanced transportation infrastructure
+My research interests lie in the general area of transportation systems, particularly in travel behavior analysis（aka human mobility） and advanced transportation infrastructure，car-following model in traffic flow theory
 
 
 
