@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: " About me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 <p align="center">
-  <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/keninginCU.png?raw=true" alt="photo" width=450px />
-  </p>
+  <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/keninginCU.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 
 I am a senior student in Northwestern Polytechnical University （985&211 project）
 
