@@ -20,6 +20,10 @@ My research interests focus on transportation system analysis, particularly in t
 My Experience 
 ======
 
+
+- October 2, 2018. Finished the independent research on Using Bounded Rationality to Analyze the Evolution of Urban taxi network, supervised by Prof. Cynthia Chen, THINK Lab, University of Washington.   
+
+
 - August 9, 2018. Presented the final project and finished the **Bigdata** Summer Program in **University of Washington**.
 Topic: Promoting Ridesharing by Bigdata <a href="https://github.com/RevCre/keningsun.github.io/blob/master/files/UW-final%20presentation.pptx?raw=true">[Final Presentation]</a> Using Spark+Dataframe+SQL+Tableau
 
@@ -27,7 +31,7 @@ Topic: Promoting Ridesharing by Bigdata <a href="https://github.com/RevCre/kenin
   <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre1.JPG?raw=true" alt="Photo" style="width: 200px;"/> 
   <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre2.JPG?raw=true" alt="Photo" style="width: 200px;"/>
 </p>
-- July 8, 2018. 
+ 
 
 - Feb 17, 2017. Presented the final project and finished the Winter Internship in **Institute of Automation, China Academy of Sciences** 
 
