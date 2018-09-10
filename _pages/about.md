@@ -14,10 +14,8 @@ redirect_from:
 
 
 I am a senior student in Northwestern Polytechnical University （985&211 project）
-
-My research interests lie in the general area of transportation systems, particularly in travel behavior analysis（aka human mobility） and advanced transportation infrastructure，car-following model in traffic flow theory
-
-
+ 
+My research interests focus on transportation system analysis, particularly in travel behavior analysis and infrastructure network analysis. Moreover, I am really fasinated with using the emerging technology like machine learning and big data to figure out the solutions for transporation problems. 
 
 My Experience 
 ======
@@ -30,6 +28,13 @@ Topic: Promoting Ridesharing by Bigdata <a href="https://github.com/RevCre/kenin
   <img src="https://github.com/RevCre/keningsun.github.io/blob/master/images/uwbigdata-pre2.JPG?raw=true" alt="Photo" style="width: 200px;"/>
 </p>
 - July 8, 2018. 
+
+- Feb 17, 2017. Presented the final project and finished the Winter Internship in **Institute of Automation, China Academy of Sciences** 
+
+
+
+
+
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
