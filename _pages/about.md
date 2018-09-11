@@ -15,7 +15,7 @@ redirect_from:
 
 I am a senior student in Northwestern Polytechnical University （985&211 project）
  
-My research interests focus on transportation system analysis, particularly in travel behavior analysis and infrastructure network analysis. Moreover, I am really fasinated with using the emerging technology like machine learning and big data to figure out the solutions for transporation problems. 
+My research interests focus on transportation system analysis, particularly in travel behavior analysis and infrastructure network analysis. Moreover, I am fascinated with using the emerging technology like machine learning and big data to figure out the solutions for transportation problems.
 
 My Experience 
 ======
