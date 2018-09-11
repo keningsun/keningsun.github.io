@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>[Analogical Model of Merging Process in Urban Transportation System by Application of Oblique Shockwave Theory](https://github.com/RevCre/keningsun.github.io/blob/master/files/short%20paper%20for%20UV2018.pdf)</b> <br>
+<b>Kening Sun</b>, Guangyang Che, Yaqi Li. Accepted in IEEE Universal Village Conference 2018
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
