@@ -9,7 +9,7 @@ author_profile: true
 <b>Kening Sun</b>, Zhongke Shi. Physica-A: Statistical Mechanics and its Applications, under review.
 
 <b>[Analogical Model of Merging Process in Urban Transportation System by Application of Oblique Shockwave Theory](https://ssrn.com/abstract=3248929)</b> <br>
-<b>Kening Sun</b>, Guangyang Che, Yaqi Li. Proceedings of the 4th IEEE Universal Village Conference, IEEE UV2018.
+<b>Kening Sun</b>, Guangyang Che, Yaqi Li. Accepted in the 4th IEEE Universal Village Conference, IEEE UV2018.
 
 <b>Toward Accessible Pedestrians Mobility: Analysis of the Street-Crossings of Elderly and Disabled Persons
 </b> <br>
