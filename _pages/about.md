@@ -36,13 +36,13 @@ Topic: Promoting Ridesharing by Bigdata <a href="https://github.com/RevCre/kenin
 
 
 
-- October 18, 2017. Hosted the NPU Model United Nations Conference as the **Secretary General** and enjoyed facing challeges and solving problems with my teamates.
+- October 18, 2017. Hosted the NPU Model United Nations Conference as the **Secretary General** and enjoyed facing challenges and solving problems with my teamates.
 
 - August 17, 2017. Finished the Vancouver Summer Program in **The University of British Columbia** and learned some VHDL and  information communication knowledges.
 
 - April 7，2017. Attended the **National Model United Nations Conference** in New York, and played the role as a delegate from Sweden in UN-Habitat.  
 
-- Feburary 17, 2017. Presented the final project and finished the Winter Internship in **Institute of Automation, China Academy of Sciences** , learned the knowleges about Vehicles, Robotics and Image Processing and imporved the skill of MATLAB.
+- Feburary 17, 2017. Presented the final project Design of Quadrotor PID Control System and finished the Winter Internship in **Institute of Automation, China Academy of Sciences** 
 
 
 
