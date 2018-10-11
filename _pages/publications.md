@@ -12,5 +12,5 @@ author_profile: true
 <b>Kening Sun</b>, Zhongke Shi. In submission to Physica-A: Statistical Mechanics and its Applications.
 
 <b>Toward Accessible Pedestrians Mobility: Analysis of the Street-Crossings of Elderly and Disabled Persons
-</b> 
+</b> <br>
 <b>Kening Sun</b>, Zhongke Shi. Accepted in the 15th International Conference on Mobility and Transport for Elderly and Disabled Persons, TRB TRANSED2018.
