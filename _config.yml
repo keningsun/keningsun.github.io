@@ -84,7 +84,7 @@ author:
   bio              : "Undergraduate student, School of Automation, Northwestern Polytechnical University"
   location         : "Xi'an, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "keningsun@outlook.com"
   uri              :
   bitbucket        :
