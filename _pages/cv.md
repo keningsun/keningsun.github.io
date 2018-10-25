@@ -11,18 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Xi'an, Northwestern Polytechnical University, 2019（expected）
-
+* Bachelor of Engineering. in Xi'an, Northwestern Polytechnical University, Xi'an, China, 2019（expected）
+* Summer School：The University of British Columbia, Vancouver, Canada, 2017
+* Summer Program: Univeristy of Washington, Seattle, USA, 2018
+       
 Work experience
 ======
-* Summer 2015: Undergraduate Research Assistant
+* Apr 2017 - Present: Undergraduate Research Assistant
+  * Research Center of Transportation Technology
   * Northwestern Polytechnical University
-  * Duties included: Tagging issues
-  * Supervisor: Professor 
+  * Supervisor: Prof. Zhongke Shi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2017 - Feb 2017: Internship Program
+  * Institute of Automation 
+  * Chinese Academy of Sciences
+  * Supervisor: Prof. Zhiqiang Pu
   
 
