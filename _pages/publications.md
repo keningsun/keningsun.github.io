@@ -14,3 +14,7 @@ author_profile: true
 <b>Toward Accessible Pedestrians Mobility: Analysis of the Street-Crossings of Elderly and Disabled Persons
 </b> <br>
 <b>Kening Sun</b>, Zhongke Shi. Accepted in the 15th International Conference on Mobility and Transport for Elderly and Disabled Persons, TRB TRANSED2018.
+
+<b>Design of the Accessible and Collaborative Roundabout in Urban Transportation System under Connected Vehicles Environment
+</b> <br>
+<b>Kening Sun</b>, Zhongke Shi. Accepted in the 15th International Conference on Mobility and Transport for Elderly and Disabled Persons, TRB TRANSED2018.
