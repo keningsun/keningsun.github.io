@@ -23,7 +23,7 @@ My Experience
 ======
 
 
-- August 12, 2018. Research on Bounded Rationality Evolution Model of Urban taxi network, visited Prof. Cynthia Chen in THINK Lab, University of Washington.   
+- August 12, 2018. Research on Bounded Rationality Evolution Model of Urban taxi network, University of Washington.   
 
 - August 9, 2018. Presented the final project and finished the **Bigdata** Summer Program in **University of Washington**.
 Topic: Promoting Ridesharing by Bigdata <a href="https://github.com/RevCre/keningsun.github.io/blob/master/files/UW-final%20presentation.pptx?raw=true">[Final Presentation]</a> Using Spark+Dataframe+SQL+Tableau
