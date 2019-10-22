@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Kening Sun"
 title_separator          : "-"
 name                     : &name "Kening Sun"
-description              : &description "Senior Student in NWPU"
-url                      : https://revcre.github.io/keningsun.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Master Student in Northeastern University"
+url                      : https://keningsun.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RevCre/keningsun.github.io"
+repository               : "keningsun/keningsun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Kening Sun"
   avatar           : "profile.png"
-  bio              : "Undergraduate student, School of Automation, Northwestern Polytechnical University"
-  location         : "Xi'an, China"
+  bio              : "Northeastern University"
+  location         : "Cambridge, MA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "keningsun@outlook.com"
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RevCre"
+  github           : "keningsun"
   google_plus      :
   keybase          :
   instagram        :
