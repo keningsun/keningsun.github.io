@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Kening Sun"
   avatar           : "profile.png"
-  bio              : "Northeastern University"
-  location         : "Cambridge, MA"
+  bio              : "Northwestern University"
+  location         : "Evanston, IL"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=plHVevMAAAAJ&hl=en"
   email            : "keningsun@outlook.com"
   uri              :
   bitbucket        :
