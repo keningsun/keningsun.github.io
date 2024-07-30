@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 
-I am a master student at Northeastern University, Boston, MA.
+I am a master student at Northwestern University, Evanston, IL.
  
 My research interests focus on transportation system analysis, particularly in travel behavior analysis and infrastructure network analysis. Moreover, I am fascinated with using the emerging technology like machine learning and big data to figure out the solutions for transportation problems.
 
